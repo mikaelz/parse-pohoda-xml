@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Import list of stock items from Pohoda
+ * Import stock items from Pohoda
  * http://www.stormware.cz/xml/dokladyexport.aspx#Zásoby
  */
 
